@@ -1,0 +1,15 @@
+{
+    "Segment": {
+      "how_to_integrate": "To integrate Segment, use the Segment SDK and follow the API guide here: https://segment.com/docs/",
+      "api_details": "Segment provides RESTful APIs for event tracking."
+    },
+    "mParticle": {
+      "how_to_integrate": "To integrate mParticle, set up your workspace and SDK. Documentation: https://docs.mparticle.com/",
+      "api_details": "mParticle offers APIs for user identification and event forwarding."
+    },
+    "Zeotap": {
+      "how_to_integrate": "Follow Zeotap's integration steps here: https://www.zeotap.com/docs/",
+      "api_details": "Zeotap provides APIs for customer data enrichment and identity resolution."
+    }
+  }
+  
